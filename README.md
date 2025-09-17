@@ -43,8 +43,8 @@ Follow these instructions to get the honeypot up and running on your local machi
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/ElpsyC0ngro0/Basic_honeypot.git
+    cd Basic_honeypot
     ```
 
 2.  **Create and activate a virtual environment:**
